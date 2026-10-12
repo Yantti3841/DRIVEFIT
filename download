@@ -1,0 +1,13 @@
+node_modules/
+.openai/
+dist/.openai/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+bmw-source.html
+research/page-*.html
+research/363/
+research/bmw-m4-original.glb
+research/manrope*.css
